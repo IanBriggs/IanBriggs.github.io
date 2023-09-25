@@ -237,6 +237,10 @@ pre {
   color: #828282;
 }
 
+.ibm_blue {
+    color: #006699;
+}
+
 .svg-icon {
   width: 1.25em;
   height: 1.25em;
@@ -278,4 +282,23 @@ table {
     -webkit-overflow-scrolling: touch;
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
+}
+
+
+/**
+ * Card
+ */
+
+.card {
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #006699;
+    background-color: #1A91FA;
+}
+
+figure {
+    margin-bottom: 0px;
 }
