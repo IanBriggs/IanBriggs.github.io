@@ -20,4 +20,8 @@ I want to give the programmer more choice in this tradeoff.
 
 My current resume/CV is [here](/assets/Ian_Briggs_Resume.pdf)
 
+While an intern at the Automated Reasoning Group I made
+  [haploid](https://github.com/IanBriggs/haploid), which is a system for
+  simplifying SMT queries in order to increase solver speed and stability.
+
 # Blog Posts
